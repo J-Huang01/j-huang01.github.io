@@ -20,7 +20,7 @@ Hello, I'm Jiatan Huang, currently a fourth-year undergraduate student at Univer
 
 My research focuses on advancing **Natural Language Processing** in biomedical and clinical domains. I’m particularly interested in developing innovative NLP models for complex **question answering** and **information extraction**, emphasizing weakly supervised and zero-shot learning approaches. My work also explores the integration of large language models with **knowledge graphs**, aiming to enhance retrieval-augmented generation and inference in healthcare applications. Through this research, I strive to contribute to AI-driven solutions that can significantly impact patient care and medical decision-making.
 
-> Actively seeking Computer Science PhD opportunities starting in Fall 2025, as well as Research Scientist internships.
+> Actively seeking Computer Science PhD opportunities starting in Fall 2025.
 
 <!-- # 💡 Research -->
 
