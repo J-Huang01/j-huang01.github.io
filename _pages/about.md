@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -16,43 +16,56 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Hello, I'm Jiatan Huang, currently a fourth-year undergraduate student at University of Minnesota.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+> Actively seeking Computer Science PhD opportunities starting in Fall 2025, as well as Research Scientist internships.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 💡 Research
 
+My research focuses on advancing **Natural Language Processing** in biomedical and clinical domains. I’m particularly interested in developing innovative NLP models for complex **question answering** and **information extraction**, emphasizing weakly supervised and zero-shot learning approaches. My work also explores the integration of large language models with **knowledge graphs**, aiming to enhance retrieval-augmented generation and inference in healthcare applications. Through this research, I strive to contribute to AI-driven solutions that can significantly impact patient care and medical decision-making.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 🔥 News
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- _2022.02_: &nbsp;🎉🎉
+- _2022.02_: &nbsp;🎉🎉 -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- _2021.09 - 2024.05_, BS in Computer Science., <img src='images/umn.png' style='width: 1.2em;'> [University of Minnesota, Twin Cities](https://www.scu.edu.cn/)
+
+# 📝 Publications
+
+See more publication details in my [Google Scholar](https://scholar.google.com/citations?user=wUE_AmQAAAAJ&hl=en)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ritek.png' alt="ritek" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs](https://arxiv.org/pdf/2410.13987)
+
+**Jiatan Huang**, Mingchen Li, Zonghai Yao, Zhichao Yang, Yongkang Xiao, Feiyun Ouyang, Xiaohan Li, Shuo Han, Hong Yu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cancerllm.png' alt="cancerllm" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CancerLLM: A Large Language Model in Cancer Domain](https://arxiv.org/pdf/2406.10459)
+
+Mingchen Li, **Jiatan Huang**, Jeremy Yeung, Anne Blaes, Steven Johnson, Hongfang Liu, Hua Xu, Rui Zhang
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/biorab.png' alt="biorab" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Benchmarking Retrieval Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness](https://arxiv.org/pdf/2405.08151)
+
+Mingchen Li, Zaifu Zhan, Han Yang, Yongkang Xiao, **Jiatan Huang**, Rui Zhang
+
+# 🎖 Honors and Awards
+
+- _2021.10_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- _2019.05 - 2020.02_, [Lorem](https://github.com/), China.
