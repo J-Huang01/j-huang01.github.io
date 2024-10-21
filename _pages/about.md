@@ -42,7 +42,7 @@ See more publication details in my [Google Scholar](https://scholar.google.com/c
 
 [RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs](https://arxiv.org/pdf/2410.13987)
 
-**Jiatan Huang**, Mingchen Li, Zonghai Yao, Zhichao Yang, Yongkang Xiao, Feiyun Ouyang, Xiaohan Li, Shuo Han, Hong Yu
+**Jiatan Huang**\*, Mingchen Li\*, Zonghai Yao, Zhichao Yang, Yongkang Xiao, Feiyun Ouyang, Xiaohan Li, Shuo Han, Hong Yu
 
 </div>
 </div>
