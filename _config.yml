@@ -22,7 +22,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: "Jiatan Julia Huang"
-  avatar: ""
+  avatar: "images/me.jpg"
   bio: "University of Minnesota, Twin Cities"
   location: "Minneapolis, MN"
   employer:

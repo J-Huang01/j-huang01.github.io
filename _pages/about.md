@@ -65,6 +65,8 @@ Mingchen Li, **Jiatan Huang**, Jeremy Yeung, Anne Blaes, Steven Johnson, Hongfan
 Mingchen Li, Zaifu Zhan, Han Yang, Yongkang Xiao, **Jiatan Huang**, Rui Zhang
 
 <!-- # 🎖 Honors and Awards -->
+</div>
+</div>
 
 # 💻 Internships
 
