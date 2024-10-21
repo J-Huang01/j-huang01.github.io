@@ -33,7 +33,7 @@ My research focuses on advancing **Natural Language Processing** in biomedical a
 
 - _2021.09 - 2024.05_, BS in Computer Science., <img src='images/umn.png' style='width: 1.2em;'> [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/)
 
-# 📝 Publications
+# 📝 Selected Preprints
 
 See more publication details in my [Google Scholar](https://scholar.google.com/citations?user=wUE_AmQAAAAJ&hl=en)
 
