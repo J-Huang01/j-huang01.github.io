@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello, I'm Jiatan Huang, currently a fourth-year undergraduate student at University of Minnesota.
 
+My research focuses on advancing **Natural Language Processing** in biomedical and clinical domains. I’m particularly interested in developing innovative NLP models for complex **question answering** and **information extraction**, emphasizing weakly supervised and zero-shot learning approaches. My work also explores the integration of large language models with **knowledge graphs**, aiming to enhance retrieval-augmented generation and inference in healthcare applications. Through this research, I strive to contribute to AI-driven solutions that can significantly impact patient care and medical decision-making.
+
 > Actively seeking Computer Science PhD opportunities starting in Fall 2025, as well as Research Scientist internships.
 
-# 💡 Research
-
-My research focuses on advancing **Natural Language Processing** in biomedical and clinical domains. I’m particularly interested in developing innovative NLP models for complex **question answering** and **information extraction**, emphasizing weakly supervised and zero-shot learning approaches. My work also explores the integration of large language models with **knowledge graphs**, aiming to enhance retrieval-augmented generation and inference in healthcare applications. Through this research, I strive to contribute to AI-driven solutions that can significantly impact patient care and medical decision-making.
+<!-- # 💡 Research -->
 
 <!-- # 🔥 News
 
@@ -31,7 +31,7 @@ My research focuses on advancing **Natural Language Processing** in biomedical a
 
 # 📖 Educations
 
-- _2021.09 - 2024.05_, BS in Computer Science., <img src='images/umn.png' style='width: 1.2em;'> [University of Minnesota, Twin Cities](https://www.scu.edu.cn/)
+- _2021.09 - 2024.05_, BS in Computer Science., <img src='images/umn.png' style='width: 1.2em;'> [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/)
 
 # 📝 Publications
 
@@ -54,6 +54,9 @@ See more publication details in my [Google Scholar](https://scholar.google.com/c
 
 Mingchen Li, **Jiatan Huang**, Jeremy Yeung, Anne Blaes, Steven Johnson, Hongfang Liu, Hua Xu, Rui Zhang
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/biorab.png' alt="biorab" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,11 +64,8 @@ Mingchen Li, **Jiatan Huang**, Jeremy Yeung, Anne Blaes, Steven Johnson, Hongfan
 
 Mingchen Li, Zaifu Zhan, Han Yang, Yongkang Xiao, **Jiatan Huang**, Rui Zhang
 
-# 🎖 Honors and Awards
-
-- _2021.10_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+<!-- # 🎖 Honors and Awards -->
 
 # 💻 Internships
 
-- _2019.05 - 2020.02_, [Lorem](https://github.com/), China.
+- _2023.05 - 2023.12_, SWE Co-Op at AtriCure.Inc, Minnetonka, MN
