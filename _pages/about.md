@@ -64,7 +64,26 @@ Mingchen Li, **Jiatan Huang**, Jeremy Yeung, Anne Blaes, Steven Johnson, Hongfan
 
 Mingchen Li, Zaifu Zhan, Han Yang, Yongkang Xiao, **Jiatan Huang**, Rui Zhang
 
+# 📝 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/budget-tracker' alt="budgettracker" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Budget-Tracker](https://github.com/J-Huang01/budget-tracker)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/event-finder.png' alt="eventfinder" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EventFinder](https://github.com/J-Huang01/Event-finder)
+
+</div>
+</div>
+
 <!-- # 🎖 Honors and Awards -->
+
 </div>
 </div>
 
