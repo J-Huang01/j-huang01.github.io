@@ -87,8 +87,8 @@ Mingchen Li, Zaifu Zhan, Han Yang, Yongkang Xiao, **Jiatan Huang**, Rui Zhang
 
 <!-- # 🎖 Honors and Awards -->
 
-</div>
-</div>
+<!-- </div>
+</div> -->
 
 # 💻 Internships
 
