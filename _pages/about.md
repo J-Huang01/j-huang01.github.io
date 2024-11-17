@@ -64,6 +64,9 @@ Mingchen Li, **Jiatan Huang**, Jeremy Yeung, Anne Blaes, Steven Johnson, Hongfan
 
 Mingchen Li, Zaifu Zhan, Han Yang, Yongkang Xiao, **Jiatan Huang**, Rui Zhang
 
+</div>
+</div>
+
 # 📝 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/budget-tracker.png' alt="budgettracker" width="100%"></div></div>
