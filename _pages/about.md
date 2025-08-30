@@ -31,7 +31,7 @@ My research focuses on the application of artificial intelligence in medicine an
 
 # 📖 Educations
 
-- _2025.08 - 2030.06(expected)_, PhD in Computer Science., <img src='images/uconn.jpg' style='width: 1.2em;'> [University of Connecticut](https://uconn.edu/)
+- _2025.08 - 2030.06(expected)_, PhD in Computer Science., <img src='images/uconn.png' style='width: 1.2em;'> [University of Connecticut](https://uconn.edu/)
 - _2021.09 - 2024.05_, BS in Computer Science., <img src='images/umn.png' style='width: 1.2em;'> [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/)
 
 # 📝 Selected Preprints
