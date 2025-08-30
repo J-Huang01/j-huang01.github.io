@@ -23,12 +23,12 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Jiatan Julia Huang"
   avatar: "images/me.jpg"
-  bio: "University of Minnesota, Twin Cities"
-  location: "Minneapolis, MN"
+  bio: "University of Connecticut"
+  location: "Storrs, CT"
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=wUE_AmQAAAAJ&hl=en"
-  email: "huan2460@umn.edu"
+  email: "jiatan.huang@uconn.edu"
   researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
