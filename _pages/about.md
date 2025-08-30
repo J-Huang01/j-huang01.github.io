@@ -16,11 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello, I'm Jiatan Huang, currently a fourth-year undergraduate student at University of Minnesota.
+Hello, I'm Jiatan Huang, a first-year Ph.D. student in Computer Science at the University of Connecticut, advised by <a href="https://chuxuzhang.github.io/" target="_blank">Prof. Chuxu Zhang</a>. Before joining UConn, I earned my Bachelor's degree in Computer Science from the University of Minnesota–Twin Cities.
 
-My research focuses on advancing **Natural Language Processing** in biomedical and clinical domains. I’m particularly interested in developing innovative NLP models for complex **question answering** and **information extraction**, emphasizing weakly supervised and zero-shot learning approaches. My work also explores the integration of large language models with **knowledge graphs**, aiming to enhance retrieval-augmented generation and inference in healthcare applications. Through this research, I strive to contribute to AI-driven solutions that can significantly impact patient care and medical decision-making.
+My research focuses on the application of artificial intelligence in medicine and healthcare, aiming to address real-world challenges. I also specialize in graph-based methods, retrieval-augmented generation, and natural language processing. For more details, please see my <a href="Jiatan_Huang_resume.pdf" target="_blank">CV</a>..
 
-> Actively seeking Computer Science PhD opportunities starting in Fall 2025.
+> Actively seeking a Research Scientist internship opportunity for Summer 2026.
 
 <!-- # 💡 Research -->
 
@@ -31,6 +31,7 @@ My research focuses on advancing **Natural Language Processing** in biomedical a
 
 # 📖 Educations
 
+- _2025.08 - 2030.06(expected)_, PhD in Computer Science., <img src='images/uconn.png' style='width: 1.2em;'> [University of Connecticut](https://uconn.edu/)
 - _2021.09 - 2024.05_, BS in Computer Science., <img src='images/umn.png' style='width: 1.2em;'> [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/)
 
 # 📝 Selected Preprints
